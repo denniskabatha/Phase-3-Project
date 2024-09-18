@@ -28,7 +28,7 @@ def review_cards():
         result = input("Did you get it right? (Y/N): ").strip().upper()
         if result == 'Y':
             print("Great job! Card marked as correct.")
-            # Update correct_count here if needed
+            
 
 def view_progress():
     total, correct = get_progress()
