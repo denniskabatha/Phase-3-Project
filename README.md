@@ -11,7 +11,7 @@
   2. Mark cards as correct or incorrect
 ## Installation
 1. Clone this repository:
-    `git clone https://github.com/yourusername/flashcard-generator.git`
+    `git@github.com:denniskabatha/Phase-3-Project.git`
 2. Navigate to the project directory:
    `cd flashcard-generator`
 3. Install dependancies(if any):
